@@ -1,8 +1,10 @@
-![Banner](img/github-header-banner.png)
+![Banner](img/github-header-design.png)
 
-### 🎓 Information Technology USU Student
+<h4 style="font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; font-weight: 600;">🎓 Information Technology USU Student</h4>
+
 ---
-## 🛠️ Tech Stack
+
+<h4 style="font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; font-weight: 600;">🛠️ Tech Stack</h4>
 
 <table align="center">
   <tr>
@@ -53,14 +55,12 @@
 
 ---
 
-## 🎮 Activity Visualization
-
-### 🐍 Contribution Snake
+<h4 style="font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; font-weight: 600;">🐍 Contribution Snake</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/cindysmsr/cindysmsr/output/snake.svg" alt="Snake animation" />
 </p>
 
-### 👾 Pacman Contribution Graph
+<h4 style="font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; font-weight: 600;">👾 Pacman Contribution Graph</h4>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cindysmsr/cindysmsr/output/pacman-contribution-graph-dark.svg">
@@ -71,11 +71,9 @@
 
 ---
 
-## 🔗 Connect With Me
+<h4 style="font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; font-weight: 600;">🔗 Connect With Me</h4>
 
-<div align="left">
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/3dBmRgr1IfSMEZoT6gW6Yd)
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cindysmsr)
 
